@@ -1,6 +1,6 @@
 # ECE NTUA - Neural Networks
 
-This repository hosts the exercises for Neural Networks course of NTUA ECE.
+This repository hosts the exercises for Neural Networks course of ECE NTUA.
 
 ## Collaborators
 
